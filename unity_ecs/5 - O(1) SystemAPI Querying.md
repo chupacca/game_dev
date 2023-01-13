@@ -1,6 +1,12 @@
-To make the code excerpt form `3` and `3 (2)` O(1), you would need to change the way you are querying the entities that have the `JumpData` component. Instead of using the `SystemAPI.Query<JumpData>` method, you could use the `Entities.WithAll<JumpData>()` method to retrieve a filtered view of all the entities that have the `JumpData` component.
+To make the code excerpt form the `ECS FEEL Example` and the `Another ECS FEEL Example` O(1), you would need to change the way you are querying the entities that have the `JumpData` component. Instead of using the `SystemAPI.Query<JumpData>` method, you could use the `Entities.WithAll<JumpData>()` method to retrieve a filtered view of all the entities that have the `JumpData` component.
+
+**Note that the `for loop` afterwords is not O(1)**
 
 ```C#
+using Unity.Entities;
+using Unity.Transforms;
+using Unity.Collections;
+
 // JumpData class is a component data that implements the IComponentData interface
 // it has a public field Value which is an instance of the MMFeedbacks class
 public class JumpData: IComponentData

@@ -1,4 +1,8 @@
 ```C#
+using Unity.Entities;
+using Unity.Transforms;
+using Unity.Collections;
+
 public class JumpData: IComponentData
 {
 	public MMFeedbacks Value;
