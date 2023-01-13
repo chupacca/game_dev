@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "48d7498f84703740",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3f19848ed17944b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cf0f9aadd60f91f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unity_ecs/1 - Unity Getting Started.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dbab96b454b79eb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unity_ecs/2 - ECS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "421b5f912e21fbaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unity_ecs/3 - ECS Example.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39e4b3d3e691639e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unity_ecs/3 (2) - Another Example.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8ec5d73a10a60ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unity_ecs/1 - Unity Getting Started.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "752f404fed74b8d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unity_ecs/4 - SystemAPI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4534f3ae5eb6a6f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a731429ba2d504b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cda0ea2d034e278",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d943d8f6ce6391c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4ce6723beece1e2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c3d64cfa1c503a12",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d2ed6a61e127272",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74e5d4b7ce4cd65e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "unity_ecs/1 - Unity Getting Started.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9abff43c7e948eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "unity_ecs/1 - Unity Getting Started.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2132ce802e169827",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5930effcf95fc33b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "unity_ecs/1 - Unity Getting Started.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4cda0ea2d034e278",
+  "lastOpenFiles": [
+    "unity_ecs/5 - O(1) SystemAPI Querying.md",
+    "unity_ecs/3 (2) - Another Example.md",
+    "unity_ecs/4 - SystemAPI.md",
+    "unity_ecs/3 - ECS Example.md",
+    "unity_ecs/2 - ECS.md",
+    "unity_ecs/1 - Unity Getting Started.md"
+  ]
+}
